@@ -1,0 +1,23 @@
+{
+    "name": "ajarunthomas/haversine",
+    "type": "library",
+    "description": "calculate distance between 2 geolocations using haversine formula",
+    "keywords": ["haversine","distance","formula"],
+    "homepage": "https://github.com/ajarunthomas/Haversine",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Arun Thomas",
+            "email": "ajarunthomas@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Ajarunthomas": "src"
+        }
+    }
+}
