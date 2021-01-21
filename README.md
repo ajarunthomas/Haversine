@@ -11,7 +11,7 @@ composer require ajarunthomas/haversine
 ```
 use Ajarunthomas\Facades\Haversine;
 ```
-or optionally include the Facade in the aliases
+Optionally include the Facade in the aliases section of the `app.php` config file
 ```
 'Haversine' => Ajarunthomas\Facades\Haversine::class,
 ```
